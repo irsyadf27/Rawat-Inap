@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\Irsyad\Desktop\ALGO\RawatInap\Rawat Inap.dp
+Name=Rawat Inap
+MainUnit=C:\Users\Irsyad\Desktop\ALGO\RawatInap\RawatInap.pas
+UnitCount=1
+ResFiles=C:\Users\Irsyad\Desktop\ALGO\RawatInap\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\Irsyad\Desktop\ALGO\RawatInap\RawatInap.pas
+FileTime=1211408731

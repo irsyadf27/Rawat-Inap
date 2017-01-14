@@ -1,2 +1,3 @@
 # Rawat-Inap
-Aplikasi Rawat Inap (Tugas Besar Algoritma dan Pemrograman)
+Aplikasi Rawat Inap
+Aplikasi ini merupakan aplikasi tugas besar Algoritma dan Pemrograman pada waktu semester 1
